@@ -1,2 +1,2 @@
 # githubtest
-A test github repo to play and test ish in
+description changed to check if pull push and commit is going to work, next srtup ssh keys
